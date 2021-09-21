@@ -1,1 +1,1 @@
-# Kaggle_competition best result Top 100.
+# Kaggle_competition 
